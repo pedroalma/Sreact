@@ -1,0 +1,19 @@
+*{
+    background-color: #19002E;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+
+}
+.com{
+    display: flex;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+img{
+    width: 60px;
+    height: 60px;
+   
+}

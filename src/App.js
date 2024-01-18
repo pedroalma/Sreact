@@ -1,9 +1,11 @@
 import './App.css';
-import Index from "./components/index";
+// import Index from "./components/index";
+import Componet from "./components/componet/componet";
 function App() {
   return (
     <div className="App">
-      <Index/>  
+      {/* <Index/>   */}
+       <Componet/>    
     </div>
   );
 }
