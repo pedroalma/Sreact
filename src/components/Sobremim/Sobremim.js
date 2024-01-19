@@ -1,6 +1,6 @@
 import logo from '../../img/logo.png';
-import './Componet.css';
-    function Componet(){
+import './Sobremim.css';
+    function Sobremim(){
         return(
          <componet>
             <div className='com'>
@@ -25,4 +25,4 @@ import './Componet.css';
          </componet>
         )
     }
-  export default Componet;  
+  export default Sobremim;  

@@ -8,6 +8,8 @@
 .com{
     display: flex;
     margin-left: 70px;
+    width: 75px;
+    height: 60px;
 }
 h1{
     color: #FFFFFF;
@@ -15,31 +17,20 @@ h1{
     margin-top: 10px;
     margin-left: 20px;
 }
-img{
+.um{
     margin-top: 25px;
     width: 75px;
     height: 60px;
 }
-h4{
-    color: #FFFFFF;
-    margin-top: 10px;
-}
-h2{
-    color: #A02880;
-}
-h3{
-    color: #FFFFFF;
-    font-size: 27px;
-    margin-top: 15px;
-}
-.qua{
+.raizicom{
     display: flex;
 }
-.meum{
-    margin-left: 156px;
-    border-style: solid;
-    border-width: 3px;
-    border-color: #9F13DD;
-    border-radius: 5px;
-    width: 300px;
+.icom{
+    margin-top: 100px;
+    margin-left: 107px;
+}
+h2{
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    margin-left: 9px;
 }
