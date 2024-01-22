@@ -1,5 +1,6 @@
 import logo from '../../img/logo.png';
 import './Index.css';
+import { Link } from 'react-router-dom';
  function Index(){
     return(
         <index>
@@ -9,7 +10,11 @@ import './Index.css';
                  <img src={logo} alt="logo" className='img'/>
            </div>
            <div className='fundo'>
-            <h2> Sobre mim  <samp>|</samp>  Meus Projetos  <samp>|</samp>  Habilidades  <samp>|</samp>  Contato  </h2> 
+            {/* <h2> Sobre mim  <samp>|</samp>  Meus Projetos  <samp>|</samp>  Habilidades  <samp>|</samp>  Contato  </h2>  */}
+            <Link to="sobremim">Sobre mim</Link>
+            <Link to="meusprojetos">Meus Projetos</Link>
+            <Link to="habilidades"> Habilidades</Link>
+            <Link to="contatos"> Contato</Link>
            </div>    
         </index>
         

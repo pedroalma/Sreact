@@ -1,9 +1,10 @@
 import logo from '../../img/logo.png';
 import './Sobremim.css';
+import VoltaIndex from '../VoltaIndex/VoltaIndex';
     function Sobremim(){
         return(
          <componet>
-            <div className='com'>
+            <div class='com'>
                 <img src={logo} alt="" />
                 <h1>Sobre Mim</h1></div>
                 <table>
@@ -22,6 +23,7 @@ import './Sobremim.css';
                            </td>
                       </th>
                 </table>
+                <VoltaIndex/>
          </componet>
         )
     }

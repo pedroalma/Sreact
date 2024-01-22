@@ -1,3 +1,4 @@
+import Componet from '../Componet/Componet';
 import logo from '../../img/logo.png';
 import './Contato.css';
 import M from '../../img/M.png'
@@ -22,6 +23,9 @@ import G from '../../img/G.png'
             <div className='conum'>
                <img src={G} alt="" />
                <h2>github.com/hpotterwizard</h2>
+            </div>
+            <div className='novo'>
+               <Componet imag={m} descricao={ ou eletrônico é um método ou um sistema que permite compor, enviar e receber mensagens através de um sistema computacional online de comunicação de forma assíncrona}/>
             </div>
          </div>   
          </div>
