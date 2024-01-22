@@ -1,6 +1,6 @@
 import logo from '../../img/logo.png';
-import './index.css';
- function index(){
+import './Index.css';
+ function Index(){
     return(
         <index>
           <div className='indexM'>
@@ -16,4 +16,4 @@ import './index.css';
 
     )
  }
-export default index;
+export default Index;

@@ -18,19 +18,20 @@ h3{
     font-family: Arial, Helvetica, sans-serif;
     color:rgb(255, 255, 255) ;
     font-size: 20px;
+    margin-right: 600px;
 }
 .indexM{
    height: 90vh;
    display: flex;
    align-items: center; 
-   /* justify-content: space-around;  */
+   /* justify-content: space-around;   */
     margin-left: 200px; 
 }
 img{
     margin-left: 60px;
 }
 .fundo{
-    margin-left: 50px;
+    margin-right: 300px;
      margin-bottom: 20px;
 }
 samp{
