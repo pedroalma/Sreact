@@ -3,8 +3,9 @@ import './Componet.css';
         return(
       
         <>
+        <div className='ponto'>
         <img src={imag} alt="logo" />
-        <h1>{descricao}</h1>
+        </div>
        </>
 
         )

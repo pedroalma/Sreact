@@ -1,0 +1,24 @@
+*{
+    background-color:  #19002E;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.the h1,h3{
+    color: #FFFFFF;
+}
+.the .gta{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.the h1{
+    font-size: 60px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.the h3 {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 115px;
+}
